@@ -14,7 +14,7 @@ class Status extends StatefulWidget{
 class StatusState extends State<Status>{
    
    Future<Void> _launched;
-   String _launchurl = "https://www.who.int/countries/ind/en/";
+   String _launchurl = "https://www.worldometers.info/coronavirus/country/india/";
    String _launchurl1 = "https://www.worldometers.info/coronavirus/";
    String launch1 = "https://www.mohfw.gov.in";
 
